@@ -32,8 +32,6 @@ theme: minima
 plugins:
   - jekyll-feed
 
-video: https://www.youtube.com/embed/ZKf0TUzxX-U
-
 
 # Exclude from processing.
 # The following items will not be processed, by default.
