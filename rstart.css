@@ -131,7 +131,7 @@ a {
   border-radius: 100% !important;
   background: transparent; }
   .btn-circle:focus, .btn-circle:hover {
-    color: black;
+    color: white;
     outline: none;
     background: rgba(255, 255, 255, 0.1); }
 
