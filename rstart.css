@@ -42,19 +42,19 @@ a {
     color: #1d9b6c; }
 
     #dropdownMenuButton {
-        background-color: black !important;
+        background-color: transparent !important;
         border: none !important;
     }
     .dropdown-menu {
-    background-color: red !important;
+    background-color: transparent !important;
     }
     }
     .dropdown-menu:hover {
-    background-color: red !important;
+    background-color: green !important;
     }
     }
     .dropdown-item {
-    background-color: red !important;
+    background-color: transparent !important;
     }
     }
     .dropdown-item:hover{
