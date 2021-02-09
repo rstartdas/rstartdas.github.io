@@ -41,6 +41,26 @@ a {
     text-decoration: none;
     color: #1d9b6c; }
 
+    #dropdownMenuButton {
+        background-color: black !important;
+        border: none !important;
+    }
+    .dropdown-menu {
+    background-color: transparent !important;
+    }
+    }
+    .dropdown-menu:hover {
+    background-color: transparent !important;
+    }
+    }
+    .dropdown-item {
+    background-color: transparent !important;
+    }
+    }
+    .dropdown-item:hover{
+    background-color: green !important;
+    }
+
 #mainNav {
   font-family: Cabin, Helvetica Neue, Helvetica, 'Arial', sans-serif;
   margin-bottom: 0;
