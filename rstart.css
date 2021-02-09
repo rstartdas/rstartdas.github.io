@@ -46,15 +46,15 @@ a {
         border: none !important;
     }
     .dropdown-menu {
-    background-color: transparent !important;
+    background-color: red !important;
     }
     }
     .dropdown-menu:hover {
-    background-color: transparent !important;
+    background-color: red !important;
     }
     }
     .dropdown-item {
-    background-color: transparent !important;
+    background-color: red !important;
     }
     }
     .dropdown-item:hover{
