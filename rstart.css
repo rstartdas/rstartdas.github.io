@@ -43,7 +43,7 @@ a {
 
     #dropdownMenuButton {
         background-color: transparent !important;
-        border: none !important;
+        border: green !important;
     }
     .dropdown-menu {
     background-color: transparent !important;
@@ -70,7 +70,7 @@ a {
   #mainNav .navbar-toggler {
     font-size: 14px;
     padding: 11px;
-    color: white;
+    color: black;
     border: 1px solid white; }
   #mainNav .navbar-brand {
     font-weight: 700; }
