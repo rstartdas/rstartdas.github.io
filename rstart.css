@@ -43,14 +43,14 @@ a {
 
     #dropdownMenuButton {
         background-color: transparent !important;
-        border: green !important;
+        border: green;
     }
     .dropdown-menu {
     background-color: transparent !important;
     }
     }
     .dropdown-menu:hover {
-    background-color: green !important;
+    background-color: green;
     }
     }
     .dropdown-item {
