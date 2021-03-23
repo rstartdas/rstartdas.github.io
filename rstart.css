@@ -43,14 +43,14 @@ a {
 
     #dropdownMenuButton {
         background-color: transparent !important;
-        border: green;
+        border: green !important;
     }
     .dropdown-menu {
     background-color: transparent !important;
     }
     }
     .dropdown-menu:hover {
-    background-color: green !important;
+    background-color: green;
     }
     }
     .dropdown-item {
@@ -65,7 +65,7 @@ a {
   font-family: Cabin, Helvetica Neue, Helvetica, 'Arial', sans-serif;
   margin-bottom: 0;
   text-transform: uppercase;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+  border-bottom: 1px solid rgba(128, 210, 80, 0.3);
   background-color: black; }
   #mainNav .navbar-toggler {
     font-size: 14px;
@@ -185,7 +185,7 @@ a {
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
-  text-transform: uppercase;
+  text-transform:;
   border-radius: 0; }
 
 .btn-default {
