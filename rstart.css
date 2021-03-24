@@ -58,7 +58,7 @@ a {
     }
     }
     .dropdown-item:hover{
-    background-color: green;
+    background-color: transparent !important;
     }
 
 #mainNav {
