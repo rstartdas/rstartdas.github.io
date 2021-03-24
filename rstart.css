@@ -75,7 +75,7 @@ a {
   #mainNav .navbar-brand {
     font-weight: 700; }
   #mainNav a {
-    color: white; }
+    color: green; }
   #mainNav .navbar-nav .nav-item {
     -webkit-transition: background 0.3s ease-in-out;
     -moz-transition: background 0.3s ease-in-out;
@@ -96,7 +96,7 @@ a {
       transition: background 0.3s ease-in-out, padding-top 0.3s ease-in-out, padding-bottom 0.3s;
       letter-spacing: 1px;
       border-bottom: none;
-      background: transparent; }
+      background: green; }
       #mainNav.navbar-shrink {
         padding-top: 10px;
         padding-bottom: 10px;
