@@ -64,7 +64,7 @@ a {
 #mainNav {
   font-family: Cabin, Helvetica Neue, Helvetica, 'Arial', sans-serif;
   margin-bottom: 0;
-  text-transform: uppercase;
+  text-transform: ;
   border-bottom: 1px solid rgba(128, 210, 80, 0.3);
   background-color: black; }
   #mainNav .navbar-toggler {
@@ -106,7 +106,7 @@ a {
         outline: none;
         background-color: rgba(255, 255, 255, 0.3); }
         #mainNav .nav-link.active:hover {
-          color: white; } }
+          color: green; } }
 
 .masthead {
   display: table;
