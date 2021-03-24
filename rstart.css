@@ -54,7 +54,7 @@ a {
     }
     }
     .dropdown-item {
-    background-color: transparent !important;
+    background-color: green !important;
     }
     }
     .dropdown-item:hover{
@@ -75,7 +75,7 @@ a {
   #mainNav .navbar-brand {
     font-weight: 700; }
   #mainNav a {
-    color: green; }
+    color: white; }
   #mainNav .navbar-nav .nav-item {
     -webkit-transition: background 0.3s ease-in-out;
     -moz-transition: background 0.3s ease-in-out;
