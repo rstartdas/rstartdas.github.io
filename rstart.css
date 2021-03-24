@@ -42,8 +42,8 @@ a {
     color: #1d9b6c; }
 
     #dropdownMenuButton {
-        background-color: transparent !important;
-        border: green !important;
+        background-color: green !important;
+        border: red !important;
     }
     .dropdown-menu {
     background-color: transparent !important;
