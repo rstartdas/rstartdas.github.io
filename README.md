@@ -8,4 +8,6 @@
 |_|  |___/\__\__,_|_|   \__|
 
 ```
- [go to hub =^.^=](https://github.com/rstartdas)
+Esta es el repositorio que contiene la pagina de inicio de [rstart.cl](www.rstart.cl)
+
+Puedes revisar otros proyectos en el [hub =^.^=](https://github.com/rstartdas)
