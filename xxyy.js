@@ -6,7 +6,7 @@
  * (Rules: Cohesion, Separation, Alignment.)<br>
  * From <a href="http://natureofcode.com">natureofcode.com</a>.
  */
-// A HTML range slider
+// A HTML range slider.
 
 var slider;
 
