@@ -1,12 +1,12 @@
 /*rstart.cl
- * * Bioners in Dance // color slider forked from flocking y otrxs codes de p5js
+ * * Bioners in Dance // Forked from flocking, slider y otrxs códigos de p5js.
 /*
  * @name Flocking
  * @description Demonstration of <a href="http://www.red3d.com/cwr/">Craig Reynolds' "Flocking" behavior</a>.<br>
  * (Rules: Cohesion, Separation, Alignment.)<br>
  * From <a href="http://natureofcode.com">natureofcode.com</a>.
  */
-// A HTML range slider
+// A HTML range slider.
 
 var slider;
 
